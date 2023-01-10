@@ -173,7 +173,7 @@ public class Simpilicity {
 	            JOptionPane.showMessageDialog(this,"Congratulations! You won.");    
 	    }    
 	}  
-	public static void main(String[] args) {  
+	//public static void main(String[] args) {  
 	    new Puzzle();  
 	}  
 	}
